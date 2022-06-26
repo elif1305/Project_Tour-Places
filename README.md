@@ -8,9 +8,9 @@ Project aims to create a tour places app.
 ## Project Skeleton
 
 ```
-001-Tour Project(folder)
+Tour Project(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md      
 SOLUTION
 ├── public
 │     └── index.html
